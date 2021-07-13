@@ -115,7 +115,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="32dp"
         android:fontFamily="sans-serif-condensed"
-        android:text="By Luitmate ✔️"
+        android:text="By Lukitmate ✔️"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
